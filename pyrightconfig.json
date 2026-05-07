@@ -1,0 +1,6 @@
+{
+  "include": ["."],
+  "typeCheckingMode": "off",
+  "extraPaths": ["."],
+  "reportMissingImports": false
+}
